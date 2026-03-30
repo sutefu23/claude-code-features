@@ -3,7 +3,7 @@ layout: default
 title: "Claude Code 新機能一覧（2.0.72以降）"
 ---
 
-[< サマリーに戻る](./)  
+[< サマリーに戻る](../)  
 
 # Claude Code 新機能一覧（2.0.72以降）
 

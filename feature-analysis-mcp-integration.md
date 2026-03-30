@@ -3,7 +3,7 @@ layout: default
 title: "Claude Code 新機能分析：MCP・外部連携・統合"
 ---
 
-[< サマリーに戻る](./)  
+[< サマリーに戻る](../)  
 
 # Claude Code 新機能分析：MCP・外部連携・統合
 
